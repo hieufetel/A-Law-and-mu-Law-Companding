@@ -1,0 +1,9 @@
+function y = quan_uni(x, q)
+% QUAN_UNI Th?c hi?n l??ng t? hóa ??ng nh?t cho tín hi?u x.
+%   y = quan_uni(x, q) tr? v? tín hi?u ?ã ???c l??ng t? hóa v?i b??c q.
+%
+%   Hàm này s? d?ng công th?c: y = q * round(x / q),
+%   t?c là làm tròn x theo b??c l??ng t? q.
+
+    y = q * round(x / q);
+end
