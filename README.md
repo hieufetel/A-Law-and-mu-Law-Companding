@@ -1,4 +1,4 @@
-
+# A LAW AND MU LAW COMPANDING
 
 
 
